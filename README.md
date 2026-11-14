@@ -1,7 +1,6 @@
 # Ring-Artifact-Removal
 
-**Overview
-**
+Overview:
 This repository contains the source code, dataset, and results of my project.
 
 ## Dataset and Results
