@@ -1,4 +1,8 @@
-# Ring-Artifact-Removal- Ekta Chahal (24324011).
+# Ring-Artifact-Removal
+
+**Overview
+**
+This repository contains the source code, dataset, and results of my project.
 
 ## Dataset and Results
 
@@ -12,3 +16,11 @@ The datasets and test results used in this project are available through the fol
 
 ### 3. Test Results
 [Access Test Results](https://drive.google.com/drive/folders/1MAm_ClPrL8lTPkhI60JyBFBfGLtlIykf?usp=drive_link)
+
+
+
+Author
+
+Ekta Chahal
+24324011
+IIT Roorkee
