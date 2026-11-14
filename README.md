@@ -1,4 +1,4 @@
-# Ring-Artifact-Removal- Ekta Chahal (23324005).
+# Ring-Artifact-Removal- Ekta Chahal (24324011).
 
 ## Dataset and Results
 
